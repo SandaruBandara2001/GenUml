@@ -1,0 +1,20 @@
+.main_container{
+  /* width: 100vw; */
+  height: 91vh;
+  background-color: #57C5B6;
+}
+.download-container {
+  padding: 2rem 27vw;
+}
+
+.diagram-container{
+    max-width: 40rem;
+    max-height: 60rem;
+    margin: auto;
+    background-color: rgb(237, 236, 236);
+}
+
+.diagram-container img{
+    max-width: 50vw;
+    max-height: 65vh;
+}
